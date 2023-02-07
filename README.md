@@ -1,5 +1,5 @@
 # Flutter Examples
-Flutter example widgets
+Flutter example widgets (for study)
 ### version
 This repository follows bellow flutter version.
 ```shell
