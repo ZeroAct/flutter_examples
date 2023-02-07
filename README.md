@@ -14,3 +14,5 @@ Tools • Dart 2.19.1 • DevTools 2.20.1
 environment:
   sdk: '>=2.19.1 <3.0.0'
 ```
+### References
+- [Conventions](https://dart.dev/guides/language/effective-dart/style)
